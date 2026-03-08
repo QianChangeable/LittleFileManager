@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/qc/QianChangProjects/FileManager/build",
+  "command": "/usr/bin/g++  -I/home/qc/QianChangProjects/FileManager/include -g -std=gnu++17 -o CMakeFiles/filemanager.dir/src/main.cpp.o -c /home/qc/QianChangProjects/FileManager/src/main.cpp",
+  "file": "/home/qc/QianChangProjects/FileManager/src/main.cpp",
+  "output": "CMakeFiles/filemanager.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/qc/QianChangProjects/FileManager/build",
+  "command": "/usr/bin/g++  -I/home/qc/QianChangProjects/FileManager/include -g -std=gnu++17 -o CMakeFiles/filemanager.dir/src/FileManager.cpp.o -c /home/qc/QianChangProjects/FileManager/src/FileManager.cpp",
+  "file": "/home/qc/QianChangProjects/FileManager/src/FileManager.cpp",
+  "output": "CMakeFiles/filemanager.dir/src/FileManager.cpp.o"
+}
+]

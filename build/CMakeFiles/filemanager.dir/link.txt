@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/filemanager.dir/src/main.cpp.o CMakeFiles/filemanager.dir/src/FileManager.cpp.o -o filemanager 

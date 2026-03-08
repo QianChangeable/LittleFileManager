@@ -1,0 +1,10 @@
+PointerAlignment: Left
+BreakBeforeBraces: Attach
+AllowShortFunctionsOnASingleLine: None
+UseTab: ForIndentation       # <- 用Tab缩进
+IndentWidth: 4              # Tab“宽度”，一般可设为4
+TabWidth: 4                 # Tab宽度，通常和IndentWidth一样
+ConstructorInitializerAllOnOneLineOrOnePerLine: true
+BreakConstructorInitializers: AfterColon
+AlwaysBreakTemplateDeclarations: Yes
+ColumnLimit: 120
